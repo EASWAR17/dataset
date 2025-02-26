@@ -31,23 +31,23 @@ Single-click deployment using Streamlit Share or Azure App Service.
 
 ## REQUIREMENTS
 
-- Hardware Requirements:
+### Hardware Requirements:
 - Processor: Intel Core i7 (or equivalent)
 - GPU: NVIDIA RTX 3060 (or higher, recommended for deep learning)
 - RAM: 16 GB (minimum)
 - Storage: 512 GB SSD (minimum)
-- Software Requirements:
-- Operating System:
+### Software Requirements:
+Operating System:
 - Windows 10/11, macOS, or Linux (Ubuntu 20.04 or later)
-- Development Tools:
+### Development Tools:
 - Programming Language: Python 3.9+
 - Framework: Streamlit (for UI and deployment)
-- Deep Learning & XAI Libraries:
+### Deep Learning & XAI Libraries:
 - TensorFlow/Keras – For training and fine-tuning VGG16
 - Grad-CAM – For generating explainability heatmaps
 - NumPy & OpenCV – For image processing
-- AI-Powered Explanation Services:
-- Gemini API / OpenAI API – For AI-driven justifications of model decisions
-- Visualization & Metrics:
+### AI-Powered Explanation Services:
+- Gemini API  – For AI-driven justifications of model decisions
+### Visualization & Metrics:
 - Matplotlib & Seaborn – For performance evaluation graphs
 - Scikit-learn – For calculating model metrics
