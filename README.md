@@ -51,3 +51,16 @@ Operating System:
 ### Visualization & Metrics:
 - Matplotlib & Seaborn – For performance evaluation graphs
 - Scikit-learn – For calculating model metrics
+
+## System Architecture 
+
+![architecture diagram](https://github.com/user-attachments/assets/7955d282-e5cb-438b-bfdf-7c7052c70014)
+
+
+## Output
+
+## Results
+
+The Explainable AI (XAI) for Lung Cancer Detection system successfully integrates deep learning-based medical image analysis with AI-driven interpretability to enhance transparency in model predictions. By leveraging the VGG16 model for lung cancer detection and Grad-CAM for visual explainability, the system highlights critical regions in CT scans that influence its decisions.
+
+The Streamlit-based interactive interface enables seamless user interaction, allowing medical professionals and researchers to upload CT scan images, visualize predictions with heatmap overlays, and receive AI-generated explanations via Gemini API/OpenAI API. This ensures a trustworthy and interpretable AI-powered diagnostic tool, facilitating better decision-making in healthcare. With its modular architecture for model training, inference, and visualization, the system provides a scalable and efficient solution for XAI in medical imaging.
