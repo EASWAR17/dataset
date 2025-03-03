@@ -58,6 +58,10 @@ Operating System:
 
 
 ## Output
+![image](https://github.com/user-attachments/assets/f418c269-d785-4989-9a11-ab51022fce25)
+
+![image](https://github.com/user-attachments/assets/e6fc2e79-43b6-41a2-a0b1-e6e06418d045)
+
 
 ## Results
 
